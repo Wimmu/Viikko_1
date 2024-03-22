@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ec9cff;
+}
+
+a:hover {
+    color: #d000ff;
+}
+
+img {
+    border: 3px solid #fde9ff;
+    border-radius: 8px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #fdf1ff;
+}
+
+ul {
+    list-style-type: square;
+}
